@@ -1,4 +1,4 @@
-# National Emergency Briefing TidyTuesday
+# National Emergency Briefing
 
 This folder contains a small, simplified version of the National Emergency Briefing dataset.
 
