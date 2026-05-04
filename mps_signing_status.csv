@@ -1,0 +1,651 @@
+mp_name,constituency,region,country,party,party_abbreviation,signed_call
+Stephen Kinnock,Aberafan Maesteg,Wales,Wales,Labour,Lab,FALSE
+Kirsty Blackman,Aberdeen North,Scotland,Scotland,Scottish National Party,SNP,FALSE
+Stephen Flynn,Aberdeen South,Scotland,Scotland,Scottish National Party,SNP,FALSE
+Seamus Logan,Aberdeenshire North and Moray East,Scotland,Scotland,Scottish National Party,SNP,FALSE
+Kenneth Stevenson,Airdrie and Shotts,Scotland,Scotland,Labour,Lab,FALSE
+Alex Baker,Aldershot,South East,England,Labour,Lab,FALSE
+Wendy Morton,Aldridge-Brownhills,West Midlands,England,Conservative,Con,FALSE
+Brian Leishman,Alloa and Grangemouth,Scotland,Scotland,Labour,Lab,FALSE
+Connor Rand,Altrincham and Sale West,North West,England,Labour,Lab,FALSE
+Mark Tami,Alyn and Deeside,Wales,Wales,Labour,Lab,FALSE
+Linsey Farnsworth,Amber Valley,East Midlands,England,Labour,Lab,FALSE
+Dave Doogan,Angus and Perthshire Glens,Scotland,Scotland,Scottish National Party,SNP,FALSE
+Stephen Gethins,Arbroath and Broughty Ferry,Scotland,Scotland,Scottish National Party,SNP,FALSE
+Brendan O'Hara,"Argyll, Bute and South Lochaber",Scotland,Scotland,Scottish National Party,SNP,FALSE
+Andrew Griffith,Arundel and South Downs,South East,England,Conservative,Con,FALSE
+Lee Anderson,Ashfield,East Midlands,England,Reform UK,RUK,FALSE
+Sojan Joseph,Ashford,South East,England,Labour,Lab,FALSE
+Angela Rayner,Ashton-under-Lyne,North West,England,Labour,Lab,FALSE
+Laura Kyrke-Smith,Aylesbury,South East,England,Labour,Lab,FALSE
+Elaine Stewart,"Ayr, Carrick and Cumnock",Scotland,Scotland,Labour,Lab,FALSE
+Sean Woodcock,Banbury,South East,England,Labour,Lab,FALSE
+Claire Hughes,Bangor Aberconwy,Wales,Wales,Labour,Lab,FALSE
+Nesil Caliskan,Barking,London,England,Labour,Lab,FALSE
+Dan Jarvis,Barnsley North,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Stephanie Peacock,Barnsley South,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Michelle Scrogham,Barrow and Furness,North West,England,Labour,Lab,FALSE
+Richard Holden,Basildon and Billericay,East of England,England,Conservative,Con,FALSE
+Luke Murphy,Basingstoke,South East,England,Labour,Lab,FALSE
+Jo White,Bassetlaw,East Midlands,England,Labour,Lab,FALSE
+Wera Hobhouse,Bath,South West,England,Liberal Democrat,LD,TRUE
+Kirsteen Sullivan,Bathgate and Linlithgow,Scotland,Scotland,Labour and Co-operative,Lab,FALSE
+Marsha De Cordova,Battersea,London,England,Labour,Lab,FALSE
+Joy Morrissey,Beaconsfield,South East,England,Conservative,Con,FALSE
+Liam Conlon,Beckenham and Penge,London,England,Labour,Lab,FALSE
+Mohammad Yasin,Bedford,East of England,England,Labour,Lab,FALSE
+Gavin Robinson,Belfast East,Northern Ireland,Northern Ireland,Democratic Unionist Party,DUP,FALSE
+John Finucane,Belfast North,Northern Ireland,Northern Ireland,Sinn Fein,SF,FALSE
+Claire Hanna,Belfast South and Mid Down,Northern Ireland,Northern Ireland,Social Democratic and Labour Party,SDLP,FALSE
+Paul Maskey,Belfast West,Northern Ireland,Northern Ireland,Sinn Fein,SF,FALSE
+Neil Coyle,Bermondsey and Old Southwark,London,England,Labour,Lab,FALSE
+John Lamont,"Berwickshire, Roxburgh and Selkirk",Scotland,Scotland,Conservative,Con,FALSE
+Rushanara Ali,Bethnal Green and Stepney,London,England,Labour,Lab,FALSE
+Graham Stuart,Beverley and Holderness,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Kieran Mullan,Bexhill and Battle,South East,England,Conservative,Con,FALSE
+Daniel Francis,Bexleyheath and Crayford,London,England,Labour,Lab,FALSE
+Calum Miller,Bicester and Woodstock,South East,England,Liberal Democrat,LD,FALSE
+Alison McGovern,Birkenhead,North West,England,Labour,Lab,FALSE
+Preet Gill,Birmingham Edgbaston,West Midlands,England,Labour and Co-operative,Lab,FALSE
+Paulette Hamilton,Birmingham Erdington,West Midlands,England,Labour,Lab,FALSE
+Tahir Ali,Birmingham Hall Green and Moseley,West Midlands,England,Labour,Lab,FALSE
+Liam Byrne,Birmingham Hodge Hill and Solihull North,West Midlands,England,Labour,Lab,FALSE
+Shabana Mahmood,Birmingham Ladywood,West Midlands,England,Labour,Lab,FALSE
+Laurence Turner,Birmingham Northfield,West Midlands,England,Labour,Lab,FALSE
+Ayoub Khan,Birmingham Perry Barr,West Midlands,England,Independent,Ind,FALSE
+Al Carns,Birmingham Selly Oak,West Midlands,England,Labour,Lab,FALSE
+Jess Phillips,Birmingham Yardley,West Midlands,England,Labour,Lab,FALSE
+Sam Rushworth,Bishop Auckland,North East,England,Labour,Lab,FALSE
+Adnan Hussain,Blackburn,North West,England,Independent,Ind,FALSE
+Graham Stringer,Blackley and Middleton South,North West,England,Labour,Lab,FALSE
+Lorraine Beavers,Blackpool North and Fleetwood,North West,England,Labour,Lab,FALSE
+Chris Webb,Blackpool South,North West,England,Labour,Lab,FALSE
+Nick Smith,Blaenau Gwent and Rhymney,Wales,Wales,Labour,Lab,FALSE
+Liz Twist,Blaydon and Consett,North East,England,Labour,Lab,FALSE
+Ian Lavery,Blyth and Ashington,North East,England,Labour,Lab,FALSE
+Alison Griffiths,Bognor Regis and Littlehampton,South East,England,Conservative,Con,FALSE
+Natalie Fleet,Bolsover,East Midlands,England,Labour,Lab,FALSE
+Kirith Entwistle,Bolton North East,North West,England,Labour,Lab,FALSE
+Yasmin Qureshi,Bolton South and Walkden,North West,England,Labour,Lab,FALSE
+Phil Brickell,Bolton West,North West,England,Labour,Lab,FALSE
+Peter Dowd,Bootle,North West,England,Labour,Lab,FALSE
+Richard Tice,Boston and Skegness,East Midlands,England,Reform UK,RUK,FALSE
+Tom Hayes,Bournemouth East,South West,England,Labour,Lab,FALSE
+Jessica Toale,Bournemouth West,South West,England,Labour,Lab,FALSE
+Peter Swallow,Bracknell,South East,England,Labour,Lab,FALSE
+Imran Hussain,Bradford East,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Judith Cummins,Bradford South,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Naz Shah,Bradford West,Yorkshire and The Humber,England,Labour,Lab,FALSE
+James Cleverly,Braintree,East of England,England,Conservative,Con,FALSE
+David Chadwick,"Brecon, Radnor and Cwm Tawe",Wales,Wales,Liberal Democrat,LD,FALSE
+Dawn Butler,Brent East,London,England,Labour,Lab,FALSE
+Barry Gardiner,Brent West,London,England,Labour,Lab,TRUE
+Ruth Cadbury,Brentford and Isleworth,London,England,Labour,Lab,FALSE
+Alex Burghart,Brentwood and Ongar,East of England,England,Conservative,Con,FALSE
+Chris Elmore,Bridgend,Wales,Wales,Labour,Lab,FALSE
+Ashley Fox,Bridgwater,South West,England,Conservative,Con,FALSE
+Charlie Dewhirst,Bridlington and The Wolds,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Martin Vickers,Brigg and Immingham,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Chris Ward,Brighton Kemptown and Peacehaven,South East,England,Labour,Lab,FALSE
+Siân Berry,Brighton Pavilion,South East,England,Green,Green,TRUE
+Carla Denyer,Bristol Central,South West,England,Green,Green,TRUE
+Kerry McCarthy,Bristol East,South West,England,Labour,Lab,FALSE
+Damien Egan,Bristol North East,South West,England,Labour,Lab,FALSE
+Darren Jones,Bristol North West,South West,England,Labour,Lab,FALSE
+Karin Smyth,Bristol South,South West,England,Labour,Lab,FALSE
+Jerome Mayhew,Broadland and Fakenham,East of England,England,Conservative,Con,FALSE
+Peter Fortune,Bromley and Biggin Hill,London,England,Conservative,Con,FALSE
+Bradley Thomas,Bromsgrove,West Midlands,England,Conservative,Con,FALSE
+Lewis Cocking,Broxbourne,East of England,England,Conservative,Con,FALSE
+Juliet Campbell,Broxtowe,East Midlands,England,Labour,Lab,FALSE
+Callum Anderson,Buckingham and Bletchley,South East,England,Labour,Lab,FALSE
+Oliver Ryan,Burnley,North West,England,Labour and Co-operative,Lab,FALSE
+Jacob Collier,Burton and Uttoxeter,West Midlands,England,Labour,Lab,FALSE
+James Frith,Bury North,North West,England,Labour,Lab,FALSE
+Christian Wakeford,Bury South,North West,England,Labour,Lab,FALSE
+Peter Prinsley,Bury St Edmunds and Stowmarket,East of England,England,Labour,Lab,FALSE
+Ann Davies,Caerfyrddin,Wales,Wales,Plaid Cymru,PC,FALSE
+Chris Evans,Caerphilly,Wales,Wales,Labour and Co-operative,Lab,FALSE
+Jamie Stone,"Caithness, Sutherland and Easter Ross",Scotland,Scotland,Liberal Democrat,LD,FALSE
+Josh Fenton-Glynn,Calder Valley,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Perran Moon,Camborne and Redruth,South West,England,Labour,Lab,FALSE
+Daniel Zeichner,Cambridge,East of England,England,Labour,Lab,FALSE
+Josh Newbury,Cannock Chase,West Midlands,England,Labour,Lab,FALSE
+Rosie Duffield,Canterbury,South East,England,Labour,Lab,FALSE
+Jo Stevens,Cardiff East,Wales,Wales,Labour,Lab,FALSE
+Anna McMorrin,Cardiff North,Wales,Wales,Labour,Lab,FALSE
+Stephen Doughty,Cardiff South and Penarth,Wales,Wales,Labour and Co-operative,Lab,FALSE
+Alex Barros-Curtis,Cardiff West,Wales,Wales,Labour,Lab,FALSE
+Julie Minns,Carlisle,North West,England,Labour,Lab,FALSE
+Bobby Dean,Carshalton and Wallington,London,England,Liberal Democrat,LD,FALSE
+Rebecca Harris,Castle Point,East of England,England,Conservative,Con,FALSE
+Alan Gemmell,Central Ayrshire,Scotland,Scotland,Labour,Lab,FALSE
+Mel Stride,Central Devon,South West,England,Conservative,Con,FALSE
+Patrick Spencer,Central Suffolk and North Ipswich,East of England,England,Conservative,Con,FALSE
+Ben Lake,Ceredigion Preseli,Wales,Wales,Plaid Cymru,PC,TRUE
+Tristan Osborne,Chatham and Aylesford,South East,England,Labour,Lab,FALSE
+Tom Morrison,Cheadle,North West,England,Liberal Democrat,LD,FALSE
+Marie Goldman,Chelmsford,East of England,England,Liberal Democrat,LD,FALSE
+Ben Coleman,Chelsea and Fulham,London,England,Labour,Lab,FALSE
+Max Wilkinson,Cheltenham,South West,England,Liberal Democrat,LD,FALSE
+Sarah Green,Chesham and Amersham,South East,England,Liberal Democrat,LD,FALSE
+Samantha Dixon,Chester North and Neston,North West,England,Labour,Lab,FALSE
+Aphra Brandreth,Chester South and Eddisbury,North West,England,Conservative,Con,FALSE
+Toby Perkins,Chesterfield,East Midlands,England,Labour,Lab,FALSE
+Jess Brown-Fuller,Chichester,South East,England,Liberal Democrat,LD,FALSE
+Iain Duncan Smith,Chingford and Woodford Green,London,England,Conservative,Con,FALSE
+Sarah Gibson,Chippenham,South West,England,Liberal Democrat,LD,FALSE
+Dan Tomlinson,Chipping Barnet,London,England,Labour,Lab,FALSE
+Lindsay Hoyle,Chorley,North West,England,Speaker,Spk,FALSE
+Christopher Chope,Christchurch,South West,England,Conservative,Con,FALSE
+Rachel Blake,Cities of London and Westminster,London,England,Labour and Co-operative,Lab,FALSE
+Mary Foy,City of Durham,North East,England,Labour,Lab,FALSE
+Nigel Farage,Clacton,East of England,England,Reform UK,RUK,FALSE
+Bell Ribeiro-Addy,Clapham and Brixton Hill,London,England,Labour,Lab,TRUE
+Becky Gittins,Clwyd East,Wales,Wales,Labour,Lab,FALSE
+Gill German,Clwyd North,Wales,Wales,Labour,Lab,FALSE
+Frank McNally,Coatbridge and Bellshill,Scotland,Scotland,Labour,Lab,FALSE
+Pam Cox,Colchester,East of England,England,Labour,Lab,FALSE
+Paul Davies,Colne Valley,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Sarah Russell,Congleton,North West,England,Labour,Lab,FALSE
+Lee Barron,Corby and East Northamptonshire,East Midlands,England,Labour,Lab,FALSE
+Mary Creagh,Coventry East,West Midlands,England,Labour,Lab,FALSE
+Taiwo Owatemi,Coventry North West,West Midlands,England,Labour,Lab,FALSE
+Zarah Sultana,Coventry South,West Midlands,England,Independent,Ind,TRUE
+Melanie Ward,Cowdenbeath and Kirkcaldy,Scotland,Scotland,Labour,Lab,FALSE
+Emma Foody,Cramlington and Killingworth,North East,England,Labour and Co-operative,Lab,FALSE
+Peter Lamb,Crawley,South East,England,Labour,Lab,FALSE
+Connor Naismith,Crewe and Nantwich,North West,England,Labour,Lab,FALSE
+Natasha Irons,Croydon East,London,England,Labour,Lab,FALSE
+Chris Philp,Croydon South,London,England,Conservative,Con,FALSE
+Sarah Jones,Croydon West,London,England,Labour,Lab,FALSE
+Katrina Murray,Cumbernauld and Kirkintilloch,Scotland,Scotland,Labour,Lab,FALSE
+Margaret Mullane,Dagenham and Rainham,London,England,Labour,Lab,FALSE
+Lola McEvoy,Darlington,North East,England,Labour,Lab,FALSE
+Jim Dickson,Dartford,South East,England,Labour,Lab,FALSE
+Stuart Andrew,Daventry,East Midlands,England,Conservative,Con,FALSE
+Catherine Atkinson,Derby North,East Midlands,England,Labour,Lab,FALSE
+Baggy Shanker,Derby South,East Midlands,England,Labour and Co-operative,Lab,FALSE
+John Whitby,Derbyshire Dales,East Midlands,England,Labour,Lab,TRUE
+Iqbal Mohamed,Dewsbury and Batley,Yorkshire and The Humber,England,Independent,Ind,TRUE
+Olly Glover,Didcot and Wantage,South East,England,Liberal Democrat,LD,TRUE
+Sally Jameson,Doncaster Central,Yorkshire and The Humber,England,Labour and Co-operative,Lab,FALSE
+Lee Pitcher,Doncaster East and the Isle of Axholme,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Ed Miliband,Doncaster North,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Chris Coghlan,Dorking and Horley,South East,England,Liberal Democrat,LD,FALSE
+Mike Tapp,Dover and Deal,South East,England,Labour,Lab,FALSE
+Nigel Huddleston,Droitwich and Evesham,West Midlands,England,Conservative,Con,FALSE
+Sonia Kumar,Dudley,West Midlands,England,Labour,Lab,FALSE
+Helen Hayes,Dulwich and West Norwood,London,England,Labour,Lab,FALSE
+John Cooper,Dumfries and Galloway,Scotland,Scotland,Conservative,Con,FALSE
+David Mundell,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,Scotland,Conservative,Con,FALSE
+Chris Law,Dundee Central,Scotland,Scotland,Scottish National Party,SNP,FALSE
+Graeme Downie,Dunfermline and Dollar,Scotland,Scotland,Labour,Lab,FALSE
+Alex Mayer,Dunstable and Leighton Buzzard,East of England,England,Labour,Lab,FALSE
+Liz Saville Roberts,Dwyfor Meirionnydd,Wales,Wales,Plaid Cymru,PC,FALSE
+Rupa Huq,Ealing Central and Acton,London,England,Labour,Lab,FALSE
+James Murray,Ealing North,London,England,Labour and Co-operative,Lab,FALSE
+Deirdre Costigan,Ealing Southall,London,England,Labour,Lab,FALSE
+Yuan Yang,Earley and Woodley,South East,England,Labour,Lab,FALSE
+Grahame Morris,Easington,North East,England,Labour,Lab,FALSE
+Sammy Wilson,East Antrim,Northern Ireland,Northern Ireland,Democratic Unionist Party,DUP,FALSE
+Mims Davies,East Grinstead and Uckfield,South East,England,Conservative,Con,FALSE
+Stephen Timms,East Ham,London,England,Labour,Lab,FALSE
+Damian Hinds,East Hampshire,South East,England,Conservative,Con,FALSE
+Joani Reid,East Kilbride and Strathaven,Scotland,Scotland,Labour,Lab,FALSE
+Gregory Campbell,East Londonderry,Northern Ireland,Northern Ireland,Democratic Unionist Party,DUP,FALSE
+Blair McDougall,East Renfrewshire,Scotland,Scotland,Labour,Lab,FALSE
+Claire Coutinho,East Surrey,South East,England,Conservative,Con,FALSE
+Polly Billington,East Thanet,South East,England,Labour,Lab,FALSE
+Danny Kruger,East Wiltshire,South West,England,Conservative,Con,FALSE
+Tom Rutland,East Worthing and Shoreham,South East,England,Labour,Lab,FALSE
+Josh Babarinde,Eastbourne,South East,England,Liberal Democrat,LD,FALSE
+Liz Jarvis,Eastleigh,South East,England,Liberal Democrat,LD,FALSE
+Chris Murray,Edinburgh East and Musselburgh,Scotland,Scotland,Labour,Lab,FALSE
+Tracy Gilbert,Edinburgh North and Leith,Scotland,Scotland,Labour,Lab,FALSE
+Ian Murray,Edinburgh South,Scotland,Scotland,Labour,Lab,FALSE
+Scott Arthur,Edinburgh South West,Scotland,Scotland,Labour,Lab,FALSE
+Christine Jardine,Edinburgh West,Scotland,Scotland,Liberal Democrat,LD,FALSE
+Kate Osamor,Edmonton and Winchmore Hill,London,England,Labour and Co-operative,Lab,FALSE
+Justin Madders,Ellesmere Port and Bromborough,North West,England,Labour,Lab,FALSE
+Clive Efford,Eltham and Chislehurst,London,England,Labour,Lab,FALSE
+Charlotte Cane,Ely and East Cambridgeshire,East of England,England,Liberal Democrat,LD,FALSE
+Feryal Clark,Enfield North,London,England,Labour,Lab,FALSE
+Neil Hudson,Epping Forest,East of England,England,Conservative,Con,FALSE
+Helen Maguire,Epsom and Ewell,South East,England,Liberal Democrat,LD,FALSE
+Adam Thompson,Erewash,East Midlands,England,Labour,Lab,FALSE
+Abena Oppong-Asare,Erith and Thamesmead,London,England,Labour,Lab,FALSE
+Monica Harding,Esher and Walton,South East,England,Liberal Democrat,LD,FALSE
+Steve Race,Exeter,South West,England,Labour,Lab,FALSE
+David Reed,Exmouth and Exeter East,South West,England,Conservative,Con,FALSE
+Euan Stainbank,Falkirk,Scotland,Scotland,Labour,Lab,FALSE
+Suella Braverman,Fareham and Waterlooville,South East,England,Conservative,Con,FALSE
+Greg Stafford,Farnham and Bordon,South East,England,Conservative,Con,FALSE
+Helen Whately,Faversham and Mid Kent,South East,England,Conservative,Con,FALSE
+Seema Malhotra,Feltham and Heston,London,England,Labour and Co-operative,Lab,FALSE
+Pat Cullen,Fermanagh and South Tyrone,Northern Ireland,Northern Ireland,Sinn Fein,SF,FALSE
+Claire Hazelgrove,Filton and Bradley Stoke,South West,England,Labour,Lab,FALSE
+Sarah Sackman,Finchley and Golders Green,London,England,Labour,Lab,FALSE
+Tony Vaughan,Folkestone and Hythe,South East,England,Labour,Lab,FALSE
+Matt Bishop,Forest of Dean,South West,England,Labour,Lab,FALSE
+Colum Eastwood,Foyle,Northern Ireland,Northern Ireland,Social Democratic and Labour Party,SDLP,FALSE
+Anna Sabine,Frome and East Somerset,South West,England,Liberal Democrat,LD,TRUE
+Andrew Snowden,Fylde,North West,England,Conservative,Con,FALSE
+Edward Leigh,Gainsborough,East Midlands,England,Conservative,Con,FALSE
+Mark Ferguson,Gateshead Central and Whickham,North East,England,Labour,Lab,FALSE
+Michael Payne,Gedling,East Midlands,England,Labour,Lab,FALSE
+Naushabah Khan,Gillingham and Rainham,South East,England,Labour,Lab,FALSE
+John Grady,Glasgow East,Scotland,Scotland,Labour,Lab,FALSE
+Martin Rhodes,Glasgow North,Scotland,Scotland,Labour,Lab,FALSE
+Maureen Burke,Glasgow North East,Scotland,Scotland,Labour,Lab,FALSE
+Gordon McKee,Glasgow South,Scotland,Scotland,Labour,Lab,FALSE
+Zubir Ahmed,Glasgow South West,Scotland,Scotland,Labour,Lab,FALSE
+Patricia Ferguson,Glasgow West,Scotland,Scotland,Labour,Lab,FALSE
+Sarah Dyke,Glastonbury and Somerton,South West,England,Liberal Democrat,LD,TRUE
+Richard Baker,Glenrothes and Mid Fife,Scotland,Scotland,Labour,Lab,FALSE
+Alex McIntyre,Gloucester,South West,England,Labour,Lab,FALSE
+Jeremy Hunt,Godalming and Ash,South East,England,Conservative,Con,FALSE
+David Davis,Goole and Pocklington,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Harriet Cross,Gordon and Buchan,Scotland,Scotland,Conservative,Con,FALSE
+Hannah Spencer,Gorton and Denton,North West,England,Green Party,Green,TRUE
+Caroline Dinenage,Gosport,South East,England,Conservative,Con,FALSE
+Tonia Antoniazzi,Gower,Wales,Wales,Labour,Lab,FALSE
+Gareth Davies,Grantham and Bourne,East Midlands,England,Conservative,Con,FALSE
+Lauren Sullivan,Gravesham,South East,England,Labour,Lab,FALSE
+Melanie Onn,Great Grimsby and Cleethorpes,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Rupert Lowe,Great Yarmouth,East of England,England,Reform UK,RUK,FALSE
+Matthew Pennycook,Greenwich and Woolwich,London,England,Labour,Lab,FALSE
+Zöe Franklin,Guildford,South East,England,Liberal Democrat,LD,FALSE
+Diane Abbott,Hackney North and Stoke Newington,London,England,Labour,Lab,FALSE
+Meg Hillier,Hackney South and Shoreditch,London,England,Labour and Co-operative,Lab,FALSE
+Alex Ballinger,Halesowen,West Midlands,England,Labour,Lab,FALSE
+Kate Dearden,Halifax,Yorkshire and The Humber,England,Labour and Co-operative,Lab,FALSE
+Paul Holmes,Hamble Valley,South East,England,Conservative,Con,FALSE
+Imogen Walker,Hamilton and Clyde Valley,Scotland,Scotland,Labour,Lab,FALSE
+Andy Slaughter,Hammersmith and Chiswick,London,England,Labour,Lab,FALSE
+Tulip Siddiq,Hampstead and Highgate,London,England,Labour,Lab,FALSE
+Neil O'Brien,"Harborough, Oadby and Wigston",East Midlands,England,Conservative,Con,FALSE
+Chris Vince,Harlow,East of England,England,Labour and Co-operative,Lab,FALSE
+Victoria Collins,Harpenden and Berkhamsted,East of England,England,Liberal Democrat,LD,FALSE
+Tom Gordon,Harrogate and Knaresborough,Yorkshire and The Humber,England,Liberal Democrat,LD,TRUE
+Bob Blackman,Harrow East,London,England,Conservative,Con,FALSE
+Gareth Thomas,Harrow West,London,England,Labour and Co-operative,Lab,FALSE
+Jonathan Brash,Hartlepool,North East,England,Labour,Lab,FALSE
+Bernard Jenkin,Harwich and North Essex,East of England,England,Conservative,Con,FALSE
+Helena Dollimore,Hastings and Rye,South East,England,Labour and Co-operative,Lab,FALSE
+Alan Mak,Havant,South East,England,Conservative,Con,FALSE
+John McDonnell,Hayes and Harlington,London,England,Labour,Lab,FALSE
+Lisa Smart,Hazel Grove,North West,England,Liberal Democrat,LD,FALSE
+David Taylor,Hemel Hempstead,East of England,England,Labour,Lab,FALSE
+David Pinto-Duschinsky,Hendon,London,England,Labour,Lab,FALSE
+Freddie Van Mierlo,Henley and Thame,South East,England,Liberal Democrat,LD,TRUE
+Jesse Norman,Hereford and South Herefordshire,West Midlands,England,Conservative,Con,FALSE
+Roger Gale,Herne Bay and Sandwich,South East,England,Conservative,Con,FALSE
+Joshua Robert Abraham Dean,Hertford and Stortford,East of England,England,Labour,Lab,FALSE
+Oliver Dowden,Hertsmere,East of England,England,Conservative,Con,FALSE
+Joe Morris,Hexham,North East,England,Labour,Lab,FALSE
+Elsie Blundell,Heywood and Middleton North,North West,England,Labour,Lab,FALSE
+Jon Pearce,High Peak,East Midlands,England,Labour,Lab,FALSE
+Luke Evans,Hinckley and Bosworth,East Midlands,England,Conservative,Con,FALSE
+Alistair Strathern,Hitchin,East of England,England,Labour,Lab,FALSE
+Keir Starmer,Holborn and St Pancras,London,England,Labour,Lab,FALSE
+Richard Foord,Honiton and Sidmouth,South West,England,Liberal Democrat,LD,TRUE
+Julia Lopez,Hornchurch and Upminster,London,England,Conservative,Con,FALSE
+Catherine West,Hornsey and Friern Barnet,London,England,Labour,Lab,FALSE
+John Milne,Horsham,South East,England,Liberal Democrat,LD,TRUE
+Bridget Phillipson,Houghton and Sunderland South,North East,England,Labour,Lab,FALSE
+Peter Kyle,Hove and Portslade,South East,England,Labour,Lab,FALSE
+Harpreet Uppal,Huddersfield,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Ben Obese-Jecty,Huntingdon,East of England,England,Conservative,Con,FALSE
+Sarah Smith,Hyndburn,North West,England,Labour,Lab,FALSE
+Wes Streeting,Ilford North,London,England,Labour,Lab,FALSE
+Jas Athwal,Ilford South,London,England,Labour,Lab,FALSE
+Martin McCluskey,Inverclyde and Renfrewshire West,Scotland,Scotland,Labour,Lab,FALSE
+Angus MacDonald,"Inverness, Skye and West Ross-shire",Scotland,Scotland,Liberal Democrat,LD,FALSE
+Jack Abbott,Ipswich,East of England,England,Labour and Co-operative,Lab,FALSE
+Joe Robertson,Isle of Wight East,South East,England,Conservative,Con,FALSE
+Richard Quigley,Isle of Wight West,South East,England,Labour,Lab,FALSE
+Jeremy Corbyn,Islington North,London,England,Independent,Ind,FALSE
+Emily Thornberry,Islington South and Finsbury,London,England,Labour,Lab,FALSE
+Kate Osborne,Jarrow and Gateshead East,North East,England,Labour,Lab,FALSE
+Robbie Moore,Keighley and Ilkley,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Jeremy Wright,Kenilworth and Southam,West Midlands,England,Conservative,Con,FALSE
+Joe Powell,Kensington and Bayswater,London,England,Labour,Lab,FALSE
+Rosie Wrighting,Kettering,East Midlands,England,Labour,Lab,FALSE
+Lillian Jones,Kilmarnock and Loudoun,Scotland,Scotland,Labour,Lab,FALSE
+Ed Davey,Kingston and Surbiton,London,England,Liberal Democrat,LD,FALSE
+Karl Turner,Kingston upon Hull East,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Diana Johnson,Kingston upon Hull North and Cottingham,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Emma Hardy,Kingston upon Hull West and Haltemprice,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Mike Wood,Kingswinford and South Staffordshire,West Midlands,England,Conservative,Con,FALSE
+Anneliese Midgley,Knowsley,North West,England,Labour,Lab,FALSE
+Sorcha-Lucy Eastwood,Lagan Valley,Northern Ireland,Northern Ireland,Alliance,Alliance,FALSE
+Cat Smith,Lancaster and Wyre,North West,England,Labour,Lab,FALSE
+Alex Sobel,Leeds Central and Headingley,Yorkshire and The Humber,England,Labour and Co-operative,Lab,FALSE
+Richard Burgon,Leeds East,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Fabian Hamilton,Leeds North East,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Katie White,Leeds North West,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Hilary Benn,Leeds South,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Mark Sewards,Leeds South West and Morley,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Rachel Reeves,Leeds West and Pudsey,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Shivani Raja,Leicester East,East Midlands,England,Conservative,Con,FALSE
+Shockat Adam,Leicester South,East Midlands,England,Independent,Ind,FALSE
+Liz Kendall,Leicester West,East Midlands,England,Labour,Lab,FALSE
+Jo Platt,Leigh and Atherton,North West,England,Labour and Co-operative,Lab,FALSE
+James MacCleary,Lewes,South East,England,Liberal Democrat,LD,TRUE
+Janet Daby,Lewisham East,London,England,Labour,Lab,FALSE
+Vicky Foxcroft,Lewisham North,London,England,Labour,Lab,FALSE
+Ellie Reeves,Lewisham West and East Dulwich,London,England,Labour,Lab,FALSE
+Calvin Bailey,Leyton and Wanstead,London,England,Labour,Lab,FALSE
+Dave Robertson,Lichfield,West Midlands,England,Labour,Lab,FALSE
+Hamish Falconer,Lincoln,East Midlands,England,Labour,Lab,FALSE
+Maria Eagle,Liverpool Garston,North West,England,Labour,Lab,FALSE
+Kim Johnson,Liverpool Riverside,North West,England,Labour,Lab,FALSE
+Dan Carden,Liverpool Walton,North West,England,Labour,Lab,FALSE
+Paula Barker,Liverpool Wavertree,North West,England,Labour,Lab,FALSE
+Ian Byrne,Liverpool West Derby,North West,England,Labour,Lab,TRUE
+Gregor Poynton,Livingston,Scotland,Scotland,Labour,Lab,FALSE
+Nia Griffith,Llanelli,Wales,Wales,Labour,Lab,FALSE
+Douglas Alexander,Lothian East,Scotland,Scotland,Labour and Co-operative,Lab,FALSE
+Jeevun Sandher,Loughborough,East Midlands,England,Labour,Lab,FALSE
+Victoria Atkins,Louth and Horncastle,East Midlands,England,Conservative,Con,FALSE
+Jess Asato,Lowestoft,East of England,England,Labour,Lab,FALSE
+Sarah Owen,Luton North,East of England,England,Labour,Lab,FALSE
+Rachel Hopkins,Luton South and South Bedfordshire,East of England,England,Labour,Lab,FALSE
+Tim Roca,Macclesfield,North West,England,Labour,Lab,FALSE
+Joshua Reynolds,Maidenhead,South East,England,Liberal Democrat,LD,FALSE
+Helen Grant,Maidstone and Malling,South East,England,Conservative,Con,FALSE
+Josh Simons,Makerfield,North West,England,Labour,Lab,FALSE
+John Whittingdale,Maldon,East of England,England,Conservative,Con,FALSE
+Lucy Powell,Manchester Central,North West,England,Labour and Co-operative,Lab,FALSE
+Afzal Khan,Manchester Rusholme,North West,England,Labour,Lab,TRUE
+Jeff Smith,Manchester Withington,North West,England,Labour,Lab,TRUE
+Steve Yemm,Mansfield,East Midlands,England,Labour,Lab,FALSE
+Brian Mathew,Melksham and Devizes,South West,England,Liberal Democrat,LD,FALSE
+Edward Argar,Melton and Syston,East Midlands,England,Conservative,Con,FALSE
+Saqib Bhatti,Meriden and Solihull East,West Midlands,England,Conservative,Con,FALSE
+Gerald Jones,Merthyr Tydfil and Aberdare,Wales,Wales,Labour,Lab,FALSE
+Henry Tufnell,Mid and South Pembrokeshire,Wales,Wales,Labour,Lab,FALSE
+Blake Stephenson,Mid Bedfordshire,East of England,England,Conservative,Con,FALSE
+Greg Smith,Mid Buckinghamshire,South East,England,Conservative,Con,FALSE
+Andrew Cooper,Mid Cheshire,North West,England,Labour,Lab,FALSE
+Jonathan Davies,Mid Derbyshire,East Midlands,England,Labour,Lab,FALSE
+Vikki Slade,Mid Dorset and North Poole,South West,England,Liberal Democrat,LD,TRUE
+Susan Murray,Mid Dunbartonshire,Scotland,Scotland,Liberal Democrat,LD,TRUE
+Peter Bedford,Mid Leicestershire,East Midlands,England,Conservative,Con,FALSE
+George Freeman,Mid Norfolk,East of England,England,Conservative,Con,FALSE
+Alison Bennett,Mid Sussex,South East,England,Liberal Democrat,LD,FALSE
+Cathal Mallaghan,Mid Ulster,Northern Ireland,Northern Ireland,Sinn Fein,SF,FALSE
+Andy McDonald,Middlesbrough and Thornaby East,North East,England,Labour,Lab,FALSE
+Luke Myer,Middlesbrough South and East Cleveland,North East,England,Labour,Lab,TRUE
+Kirsty McNeill,Midlothian,Scotland,Scotland,Labour and Co-operative,Lab,FALSE
+Emily Darlington,Milton Keynes Central,South East,England,Labour,Lab,FALSE
+Chris Curtis,Milton Keynes North,South East,England,Labour,Lab,FALSE
+Siobhain McDonagh,Mitcham and Morden,London,England,Labour,Lab,FALSE
+Catherine Fookes,Monmouthshire,Wales,Wales,Labour,Lab,FALSE
+Steve Witherden,Montgomeryshire and Glyndwr,Wales,Wales,Labour,Lab,TRUE
+Graham Leadbitter,"Moray West, Nairn and Strathspey",Scotland,Scotland,Scottish National Party,SNP,FALSE
+Lizzi Collinge,Morecambe and Lunesdale,North West,England,Labour,Lab,FALSE
+Pamela Nash,"Motherwell, Wishaw and Carluke",Scotland,Scotland,Labour,Lab,FALSE
+Torcuil Crichton,Na h-Eileanan an Iar,Scotland,Scotland,Labour,Lab,FALSE
+Carolyn Harris,Neath and Swansea East,Wales,Wales,Labour,Lab,FALSE
+Julian Lewis,New Forest East,South East,England,Conservative,Con,FALSE
+Desmond Swayne,New Forest West,South East,England,Conservative,Con,FALSE
+Robert Jenrick,Newark,East Midlands,England,Conservative,Con,FALSE
+Lee Dillon,Newbury,South East,England,Liberal Democrat,LD,FALSE
+Chi Onwurah,Newcastle upon Tyne Central and West,North East,England,Labour,Lab,FALSE
+Mary Glindon,Newcastle upon Tyne East and Wallsend,North East,England,Labour,Lab,FALSE
+Catherine McKinnell,Newcastle upon Tyne North,North East,England,Labour,Lab,FALSE
+Adam Jogee,Newcastle-under-Lyme,West Midlands,England,Labour,Lab,FALSE
+Jessica Morden,Newport East,Wales,Wales,Labour,Lab,FALSE
+Ruth Jones,Newport West and Islwyn,Wales,Wales,Labour,Lab,FALSE
+Dáire Hughes,Newry and Armagh,Northern Ireland,Northern Ireland,Sinn Fein,SF,FALSE
+Martin Wrigley,Newton Abbot,South West,England,Liberal Democrat,LD,TRUE
+Alan Strickland,Newton Aycliffe and Spennymoor,North East,England,Labour,Lab,FALSE
+Jon Trickett,Normanton and Hemsworth,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Jim Allister,North Antrim,Northern Ireland,Northern Ireland,Traditional Unionist Voice,TUV,FALSE
+Irene Campbell,North Ayrshire and Arran,Scotland,Scotland,Labour,Lab,FALSE
+Richard Fuller,North Bedfordshire,East of England,England,Conservative,Con,FALSE
+Ben Maguire,North Cornwall,South West,England,Liberal Democrat,LD,TRUE
+Geoffrey Clifton-Brown,North Cotswolds,South West,England,Conservative,Con,FALSE
+Ian Roome,North Devon,South West,England,Liberal Democrat,LD,FALSE
+Simon Hoare,North Dorset,South West,England,Conservative,Con,FALSE
+Alex Easton,North Down,Northern Ireland,Northern Ireland,Independent,Ind,FALSE
+Luke Akehurst,North Durham,North East,England,Labour,Lab,FALSE
+Steve Barclay,North East Cambridgeshire,East of England,England,Conservative,Con,FALSE
+Louise Jones,North East Derbyshire,East Midlands,England,Labour,Lab,FALSE
+Wendy Chamberlain,North East Fife,Scotland,Scotland,Liberal Democrat,LD,FALSE
+Alex Brewer,North East Hampshire,South East,England,Liberal Democrat,LD,FALSE
+Chris Hinchliff,North East Hertfordshire,East of England,England,Labour,Lab,FALSE
+Dan Norris,North East Somerset and Hanham,South West,England,Labour,Lab,FALSE
+Ellie Chowns,North Herefordshire,West Midlands,England,Green,Green,TRUE
+Steffan Aquarone,North Norfolk,East of England,England,Liberal Democrat,LD,FALSE
+David Smith,North Northumberland,North East,England,Labour,Lab,FALSE
+Helen Morgan,North Shropshire,West Midlands,England,Liberal Democrat,LD,FALSE
+Sadik Al-Hassan,North Somerset,South West,England,Labour,Lab,FALSE
+Rachel Taylor,North Warwickshire and Bedworth,West Midlands,England,Labour,Lab,FALSE
+Sam Carling,North West Cambridgeshire,East of England,England,Labour,Lab,FALSE
+Kemi Badenoch,North West Essex,East of England,England,Conservative,Con,FALSE
+Kit Malthouse,North West Hampshire,South East,England,Conservative,Con,FALSE
+Amanda Hack,North West Leicestershire,East Midlands,England,Labour,Lab,FALSE
+James Wild,North West Norfolk,East of England,England,Conservative,Con,FALSE
+Lucy Rigby,Northampton North,East Midlands,England,Labour,Lab,FALSE
+Mike Reader,Northampton South,East Midlands,England,Labour,Lab,FALSE
+Alice Macdonald,Norwich North,East of England,England,Labour and Co-operative,Lab,FALSE
+Clive Lewis,Norwich South,East of England,England,Labour,Lab,TRUE
+Nadia Whittome,Nottingham East,East Midlands,England,Labour,Lab,FALSE
+Alex Norris,Nottingham North and Kimberley,East Midlands,England,Labour and Co-operative,Lab,FALSE
+Lilian Greenwood,Nottingham South,East Midlands,England,Labour,Lab,FALSE
+Jodie Gosling,Nuneaton,West Midlands,England,Labour,Lab,FALSE
+Louie French,Old Bexley and Sidcup,London,England,Conservative,Con,FALSE
+Debbie Abrahams,Oldham East and Saddleworth,North West,England,Labour,Lab,FALSE
+Jim McMahon,"Oldham West, Chadderton and Royton",North West,England,Labour and Co-operative,Lab,FALSE
+Alistair Carmichael,Orkney and Shetland,Scotland,Scotland,Liberal Democrat,LD,FALSE
+Gareth Bacon,Orpington,London,England,Conservative,Con,FALSE
+Jade Botterill,Ossett and Denby Dale,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Anneliese Dodds,Oxford East,South East,England,Labour and Co-operative,Lab,FALSE
+Layla Moran,Oxford West and Abingdon,South East,England,Liberal Democrat,LD,TRUE
+Alison Taylor,Paisley and Renfrewshire North,Scotland,Scotland,Labour,Lab,FALSE
+Johanna Baxter,Paisley and Renfrewshire South,Scotland,Scotland,Labour,Lab,FALSE
+Miatta Fahnbulleh,Peckham,London,England,Labour and Co-operative,Lab,FALSE
+Jonathan Hinder,Pendle and Clitheroe,North West,England,Labour,Lab,FALSE
+Marie Tidball,Penistone and Stocksbridge,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Markus Campbell-Savours,Penrith and Solway,North West,England,Labour,Lab,FALSE
+Pete Wishart,Perth and Kinross-shire,Scotland,Scotland,Scottish National Party,SNP,FALSE
+Andrew Pakes,Peterborough,East of England,England,Labour and Co-operative,Lab,FALSE
+Fred Thomas,Plymouth Moor View,South West,England,Labour,Lab,FALSE
+Luke Pollard,Plymouth Sutton and Devonport,South West,England,Labour and Co-operative,Lab,FALSE
+Yvette Cooper,"Pontefract, Castleford and Knottingley",Yorkshire and The Humber,England,Labour,Lab,FALSE
+Alex Davies-Jones,Pontypridd,Wales,Wales,Labour,Lab,FALSE
+Neil Duncan-Jordan,Poole,South West,England,Labour,Lab,TRUE
+Apsana Begum,Poplar and Limehouse,London,England,Labour,Lab,FALSE
+Amanda Martin,Portsmouth North,South East,England,Labour,Lab,FALSE
+Stephen Morgan,Portsmouth South,South East,England,Labour,Lab,FALSE
+Mark Hendrick,Preston,North West,England,Labour and Co-operative,Lab,FALSE
+Fleur Anderson,Putney,London,England,Labour,Lab,FALSE
+Georgia Gould,Queen's Park and Maida Vale,London,England,Labour,Lab,FALSE
+John Healey,Rawmarsh and Conisbrough,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Mark Francois,Rayleigh and Wickford,East of England,England,Conservative,Con,FALSE
+Matt Rodda,Reading Central,South East,England,Labour,Lab,FALSE
+Olivia Bailey,Reading West and Mid Berkshire,South East,England,Labour,Lab,FALSE
+Anna Turley,Redcar,North East,England,Labour and Co-operative,Lab,FALSE
+Chris Bloore,Redditch,West Midlands,England,Labour,Lab,FALSE
+Rebecca Paul,Reigate,South East,England,Conservative,Con,FALSE
+Chris Bryant,Rhondda and Ogmore,Wales,Wales,Labour,Lab,FALSE
+Maya Ellis,Ribble Valley,North West,England,Labour,Lab,FALSE
+Rishi Sunak,Richmond and Northallerton,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Sarah Olney,Richmond Park,London,England,Liberal Democrat,LD,FALSE
+Paul Waugh,Rochdale,North West,England,Labour and Co-operative,Lab,FALSE
+Lauren Edwards,Rochester and Strood,South East,England,Labour,Lab,FALSE
+Andrew Rosindell,Romford,London,England,Conservative,Con,FALSE
+Caroline Nokes,Romsey and Southampton North,South East,England,Conservative,Con,FALSE
+Andy MacNae,Rossendale and Darwen,North West,England,Labour,Lab,FALSE
+Jake Richards,Rother Valley,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Sarah Champion,Rotherham,Yorkshire and The Humber,England,Labour,Lab,FALSE
+John Slinger,Rugby,West Midlands,England,Labour,Lab,FALSE
+David Simmonds,"Ruislip, Northwood and Pinner",London,England,Conservative,Con,FALSE
+Sarah Pochin,Runcorn and Helsby,North West,England,Reform UK,REF,FALSE
+Ben Spencer,Runnymede and Weybridge,South East,England,Conservative,Con,FALSE
+James Naish,Rushcliffe,East Midlands,England,Labour,Lab,FALSE
+Michael Shanks,Rutherglen,Scotland,Scotland,Labour,Lab,FALSE
+Alicia Kearns,Rutland and Stamford,East Midlands,England,Conservative,Con,FALSE
+Rebecca Long-Bailey,Salford,North West,England,Labour,Lab,FALSE
+John Glen,Salisbury,South West,England,Conservative,Con,FALSE
+Alison Hume,Scarborough and Whitby,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Nicholas Dakin,Scunthorpe,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Bill Esterson,Sefton Central,North West,England,Labour,Lab,FALSE
+Keir Mather,Selby,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Laura Trott,Sevenoaks,South East,England,Conservative,Con,FALSE
+Gill Furniss,Sheffield Brightside and Hillsborough,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Abtisam Mohamed,Sheffield Central,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Olivia Blake,Sheffield Hallam,Yorkshire and The Humber,England,Labour,Lab,TRUE
+Louise Haigh,Sheffield Heeley,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Clive Betts,Sheffield South East,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Michelle Welsh,Sherwood Forest,East Midlands,England,Labour,Lab,FALSE
+Anna Dixon,Shipley,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Julia Buckley,Shrewsbury,West Midlands,England,Labour,Lab,FALSE
+Kevin McKenna,Sittingbourne and Sheppey,South East,England,Labour,Lab,FALSE
+Julian Smith,Skipton and Ripon,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Caroline Johnson,Sleaford and North Hykeham,East Midlands,England,Conservative,Con,FALSE
+Tan Dhesi,Slough,South East,England,Labour,Lab,FALSE
+Gurinder Josan,Smethwick,West Midlands,England,Labour,Lab,FALSE
+Neil Shastri-Hurst,Solihull West and Shirley,West Midlands,England,Conservative,Con,FALSE
+Robin Swann,South Antrim,Northern Ireland,Northern Ireland,Ulster Unionist Party,UUP,FALSE
+James McMurdock,South Basildon and East Thurrock,East of England,England,Reform UK,RUK,FALSE
+Pippa Heylings,South Cambridgeshire,East of England,England,Liberal Democrat,LD,TRUE
+Roz Savage,South Cotswolds,South West,England,Liberal Democrat,LD,TRUE
+Samantha Niblett,South Derbyshire,East Midlands,England,Labour,Lab,FALSE
+Caroline Voaden,South Devon,South West,England,Liberal Democrat,LD,TRUE
+Lloyd Hatton,South Dorset,South West,England,Labour,Lab,TRUE
+Chris Hazzard,South Down,Northern Ireland,Northern Ireland,Sinn Fein,SF,FALSE
+Anna Gelderd,South East Cornwall,South West,England,Labour,Lab,FALSE
+John Hayes,South Holland and The Deepings,East Midlands,England,Conservative,Con,FALSE
+Alberto Costa,South Leicestershire,East Midlands,England,Conservative,Con,FALSE
+Ben Goldsborough,South Norfolk,East of England,England,Labour,Lab,FALSE
+Sarah Bool,South Northamptonshire,East Midlands,England,Conservative,Con,FALSE
+Paul Foster,South Ribble,North West,England,Labour,Lab,FALSE
+Emma Lewell-Buck,South Shields,North East,England,Labour,Lab,FALSE
+Stuart Anderson,South Shropshire,West Midlands,England,Conservative,Con,FALSE
+James Cartlidge,South Suffolk,East of England,England,Conservative,Con,FALSE
+Rebecca Smith,South West Devon,South West,England,Conservative,Con,FALSE
+Gagan Mohindra,South West Hertfordshire,East of England,England,Conservative,Con,FALSE
+Terry Jermy,South West Norfolk,East of England,England,Labour,Lab,TRUE
+Andrew Murrison,South West Wiltshire,South West,England,Conservative,Con,FALSE
+Darren Paffey,Southampton Itchen,South East,England,Labour,Lab,FALSE
+Satvir Kaur,Southampton Test,South East,England,Labour,Lab,FALSE
+Bayo Alaba,Southend East and Rochford,East of England,England,Labour,Lab,FALSE
+David Burton-Sampson,Southend West and Leigh,East of England,England,Labour,Lab,FALSE
+Bambos Charalambous,Southgate and Wood Green,London,England,Labour,Lab,FALSE
+Patrick Hurley,Southport,North West,England,Labour,Lab,FALSE
+Lincoln Jopp,Spelthorne,South East,England,Conservative,Con,FALSE
+Kim Leadbeater,Spen Valley,Yorkshire and The Humber,England,Labour,Lab,FALSE
+Daisy Cooper,St Albans,East of England,England,Liberal Democrat,LD,TRUE
+Noah Law,St Austell and Newquay,South West,England,Labour,Lab,FALSE
+David Baines,St Helens North,North West,England,Labour,Lab,FALSE
+Marie Rimmer,St Helens South and Whiston,North West,England,Labour,Lab,FALSE
+Andrew George,St Ives,South West,England,Liberal Democrat,LD,TRUE
+Ian Sollom,St Neots and Mid Cambridgeshire,East of England,England,Liberal Democrat,LD,FALSE
+Leigh Ingham,Stafford,West Midlands,England,Labour,Lab,FALSE
+Karen Bradley,Staffordshire Moorlands,West Midlands,England,Conservative,Con,FALSE
+Jonathan Reynolds,Stalybridge and Hyde,North West,England,Labour and Co-operative,Lab,FALSE
+Kevin Bonavia,Stevenage,East of England,England,Labour,Lab,FALSE
+Chris Kane,Stirling and Strathallan,Scotland,Scotland,Labour,Lab,FALSE
+Navendu Mishra,Stockport,North West,England,Labour,Lab,FALSE
+Chris McDonald,Stockton North,North East,England,Labour,Lab,FALSE
+Matt Vickers,Stockton West,North East,England,Conservative,Con,FALSE
+Gareth Snell,Stoke-on-Trent Central,West Midlands,England,Labour and Co-operative,Lab,FALSE
+David Williams,Stoke-on-Trent North,West Midlands,England,Labour,Lab,FALSE
+Allison Gardner,Stoke-on-Trent South,West Midlands,England,Labour,Lab,FALSE
+Gavin Williamson,"Stone, Great Wyrley and Penkridge",West Midlands,England,Conservative,Con,FALSE
+Cat Eccles,Stourbridge,West Midlands,England,Labour,Lab,FALSE
+Jim Shannon,Strangford,Northern Ireland,Northern Ireland,Democratic Unionist Party,DUP,FALSE
+Uma Kumaran,Stratford and Bow,London,England,Labour,Lab,FALSE
+Manuela Perteghella,Stratford-on-Avon,West Midlands,England,Liberal Democrat,LD,FALSE
+Steve Reed,Streatham and Croydon North,London,England,Labour and Co-operative,Lab,FALSE
+Andrew Western,Stretford and Urmston,North West,England,Labour,Lab,FALSE
+Simon Opher,Stroud,South West,England,Labour,Lab,TRUE
+Jenny Riddell-Carpenter,Suffolk Coastal,East of England,England,Labour,Lab,FALSE
+Lewis Atkinson,Sunderland Central,North East,England,Labour,Lab,FALSE
+Al Pinkerton,Surrey Heath,South East,England,Liberal Democrat,LD,TRUE
+Nus Ghani,Sussex Weald,South East,England,Conservative,Con,FALSE
+Luke Taylor,Sutton and Cheam,London,England,Liberal Democrat,LD,TRUE
+Andrew Mitchell,Sutton Coldfield,West Midlands,England,Conservative,Con,FALSE
+Torsten Bell,Swansea West,Wales,Wales,Labour,Lab,FALSE
+Will Stone,Swindon North,South West,England,Labour,Lab,FALSE
+Heidi Alexander,Swindon South,South West,England,Labour,Lab,FALSE
+Sarah Edwards,Tamworth,West Midlands,England,Labour,Lab,FALSE
+Esther McVey,Tatton,North West,England,Conservative,Con,FALSE
+Gideon Amos,Taunton and Wellington,South West,England,Liberal Democrat,LD,TRUE
+Shaun Davies,Telford,West Midlands,England,Labour,Lab,FALSE
+Cameron Thomas,Tewkesbury,South West,England,Liberal Democrat,LD,FALSE
+Mark Pritchard,The Wrekin,West Midlands,England,Conservative,Con,FALSE
+Kevin Hollinrake,Thirsk and Malton,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Claire Young,Thornbury and Yate,South West,England,Liberal Democrat,LD,FALSE
+Jen Craft,Thurrock,East of England,England,Labour,Lab,FALSE
+Antonia Bance,Tipton and Wednesbury,West Midlands,England,Labour,Lab,FALSE
+Rachel Gilmour,Tiverton and Minehead,South West,England,Liberal Democrat,LD,FALSE
+Tom Tugendhat,Tonbridge,South East,England,Conservative,Con,FALSE
+Rosena Allin-Khan,Tooting,London,England,Labour,Lab,FALSE
+Steve Darling,Torbay,South West,England,Liberal Democrat,LD,TRUE
+Nick Thomas-Symonds,Torfaen,Wales,Wales,Labour,Lab,FALSE
+Geoffrey Cox,Torridge and Tavistock,South West,England,Conservative,Con,FALSE
+David Lammy,Tottenham,London,England,Labour,Lab,FALSE
+Jayne Kirkham,Truro and Falmouth,South West,England,Labour and Co-operative,Lab,FALSE
+Mike Martin,Tunbridge Wells,South East,England,Liberal Democrat,LD,FALSE
+Munira Wilson,Twickenham,London,England,Liberal Democrat,LD,TRUE
+Alan Campbell,Tynemouth,North East,England,Labour,Lab,FALSE
+Carla Lockhart,Upper Bann,Northern Ireland,Northern Ireland,Democratic Unionist Party,DUP,FALSE
+Danny Beales,Uxbridge and South Ruislip,London,England,Labour,Lab,FALSE
+Kanishka Narayan,Vale of Glamorgan,Wales,Wales,Labour,Lab,FALSE
+Florence Eshalomi,Vauxhall and Camberwell Green,London,England,Labour and Co-operative,Lab,FALSE
+Simon Lightwood,Wakefield and Rothwell,Yorkshire and The Humber,England,Labour and Co-operative,Lab,FALSE
+Angela Eagle,Wallasey,North West,England,Labour,Lab,FALSE
+Valerie Vaz,Walsall and Bloxwich,West Midlands,England,Labour,Lab,FALSE
+Stella Creasy,Walthamstow,London,England,Labour and Co-operative,Lab,FALSE
+Charlotte Nichols,Warrington North,North West,England,Labour,Lab,FALSE
+Sarah Hall,Warrington South,North West,England,Labour and Co-operative,Lab,FALSE
+Matt Western,Warwick and Leamington,West Midlands,England,Labour,Lab,FALSE
+Sharon Hodgson,Washington and Gateshead South,North East,England,Labour,Lab,FALSE
+Matt Turmaine,Watford,East of England,England,Labour,Lab,FALSE
+Adrian Ramsay,Waveney Valley,East of England,England,Green,Green,TRUE
+Katie Lam,Weald of Kent,South East,England,Conservative,Con,FALSE
+Gen Kitchen,Wellingborough and Rushden,East Midlands,England,Labour,Lab,FALSE
+Tessa Munt,Wells and Mendip Hills,South West,England,Liberal Democrat,LD,TRUE
+Andrew Lewin,Welwyn Hatfield,East of England,England,Labour,Lab,FALSE
+Andrew Bowie,West Aberdeenshire and Kincardine,Scotland,Scotland,Conservative,Con,FALSE
+Sarah Coombes,West Bromwich,West Midlands,England,Labour,Lab,FALSE
+Edward Morello,West Dorset,South West,England,Liberal Democrat,LD,TRUE
+Douglas McAllister,West Dunbartonshire,Scotland,Scotland,Labour,Lab,FALSE
+James Asser,West Ham and Beckton,London,England,Labour,Lab,FALSE
+Ashley Dalton,West Lancashire,North West,England,Labour,Lab,FALSE
+Nick Timothy,West Suffolk,East of England,England,Conservative,Con,FALSE
+Órfhlaith Begley,West Tyrone,Northern Ireland,Northern Ireland,Sinn Fein,SF,FALSE
+Harriett Baldwin,West Worcestershire,West Midlands,England,Conservative,Con,FALSE
+Tim Farron,Westmorland and Lonsdale,North West,England,Liberal Democrat,LD,TRUE
+Daniel Aldridge,Weston-super-Mare,South West,England,Labour,Lab,FALSE
+Alec Shelbrooke,Wetherby and Easingwold,Yorkshire and The Humber,England,Conservative,Con,FALSE
+Josh MacAlister,Whitehaven and Workington,North West,England,Labour,Lab,FALSE
+Derek Twigg,Widnes and Halewood,North West,England,Labour,Lab,FALSE
+Lisa Nandy,Wigan,North West,England,Labour,Lab,FALSE
+Paul Kohler,Wimbledon,London,England,Liberal Democrat,LD,FALSE
+Danny Chambers,Winchester,South East,England,Liberal Democrat,LD,TRUE
+Jack Rankin,Windsor,South East,England,Conservative,Con,FALSE
+Matthew Patrick,Wirral West,North West,England,Labour,Lab,FALSE
+Priti Patel,Witham,East of England,England,Conservative,Con,FALSE
+Charles Maynard,Witney,South East,England,Liberal Democrat,LD,FALSE
+Will Forster,Woking,South East,England,Liberal Democrat,LD,TRUE
+Clive Jones,Wokingham,South East,England,Liberal Democrat,LD,FALSE
+Sureena Brackenridge,Wolverhampton North East,West Midlands,England,Labour,Lab,FALSE
+Pat McFadden,Wolverhampton South East,West Midlands,England,Labour,Lab,FALSE
+Warinder Juss,Wolverhampton West,West Midlands,England,Labour,Lab,FALSE
+Tom Collins,Worcester,West Midlands,England,Labour,Lab,FALSE
+Michael Wheeler,Worsley and Eccles,North West,England,Labour,Lab,FALSE
+Beccy Cooper,Worthing West,South East,England,Labour,Lab,FALSE
+Andrew Ranger,Wrexham,Wales,Wales,Labour,Lab,FALSE
+Emma Reynolds,Wycombe,South East,England,Labour,Lab,FALSE
+Mark Garnier,Wyre Forest,West Midlands,England,Conservative,Con,FALSE
+Mike Kane,Wythenshawe and Sale East,North West,England,Labour,Lab,FALSE
+Adam Dance,Yeovil,South West,England,Liberal Democrat,LD,TRUE
+Llinos Medi,Ynys Môn,Wales,Wales,Plaid Cymru,PC,FALSE
+Rachael Maskell,York Central,Yorkshire and The Humber,England,Labour and Co-operative,Lab,FALSE
+Luke Charters,York Outer,Yorkshire and The Humber,England,Labour,Lab,FALSE
